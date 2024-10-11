@@ -4,7 +4,7 @@
 
 ## 🌟 Project Overview
 
-Welcome to the Wine Quality Predictor project! Here, I want to find the best feature selection algorithm for predicting wine quality using Support Vector Machines (SVM). By comparing five different feature selection methods, I aim to identify the most effective approach for this classification task.
+Welcome to the Wine Quality Predictor project! Here, I want to find the best feature selection algorithm for predicting wine quality using Support Vector Machines (SVM). By comparing five different feature selection methods (+1 metaheuristic algorithm), I aim to identify the most effective approach for this classification task.
 
 This project inspired by these papers that i've read:
 - [A comprehensive survey on feature selection in the various ﬁelds of machine learning](https://doi.org/10.1007/s10489-021-02550-9)
@@ -37,7 +37,7 @@ my goal is to predict the wine's quality class based on these characteristics.
 
 ## 🔍 Feature Selection Algorithms
 
-We've put five powerful feature selection algorithms to the test:
+We've put five powerful feature selection algorithms (+1 metaheuristic algorithm) to the test:
 
 1. **FCMIM** (Fast Conditional Mutual Information Maximization)
 2. **MI** (Mutual Information)
